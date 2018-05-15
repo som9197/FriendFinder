@@ -1,0 +1,27 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "This is a \"FriendFinder\" application. This full-stack site will take in results from user surveys, compare their answers with those from other users, and display the name and picture of the user with the best overall match. Express (npm) will be used to handle routing. The app will be deployed through Heroku.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/som9197/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/som9197/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/som9197/FriendFinder#readme"
+}
